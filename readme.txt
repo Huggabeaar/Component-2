@@ -1,5 +1,3 @@
-Published on Tilda.cc
+Второй компонент (Баннеры и поп-ап для кнопкпи "Записаться на консультацию")
 - - -
-Upload the project to your website:
-1. Copy the contents of this folder to your server by FTP
-2. Rename file htaccess to .htaccess
+Вставить код в корневую папку сайта в дубле
